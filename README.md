@@ -443,6 +443,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv | 
 | [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv | 
 | [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv | 
 | [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv | 
@@ -798,6 +799,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](https://arxiv.org/abs/2603.14405)| 2026 | Arxiv |
   | [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://openreview.net/pdf?id=RU76KTF1Da)| 2026 | ICLR | VisCodex-8B, VisCodex-33B
   | [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](https://arxiv.org/pdf/2601.21187)| 2026 | Arxiv | Qwen2.5-VL-7B-Instruct, DeepSeekR1-Distill-Qwen-7B, Qwen2.5-VL-32B-Instruct, QwQ-32B
   | [PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/pdf/2601.07645)| 2026 | Arxiv |LLaVA-v1.5-7B, Qwen2.5-VL-7B-Instruct, Qwen3-VL-8B-Instruct
