@@ -1058,6 +1058,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI | 
 | [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](https://arxiv.org/pdf/2602.18658)| 2026 | Arxiv | LLaMA-3.2-3B-Instruct
 | [On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://openreview.net/pdf?id=zrFnwRHuQo)| 2026 | ICLR |
 | [Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://arxiv.org/pdf/2509.12697)| 2025 | Arxiv | LLaMA-7B
