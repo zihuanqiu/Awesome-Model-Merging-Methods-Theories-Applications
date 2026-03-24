@@ -621,6 +621,7 @@ Thanks!
 #### Faster Reasoning of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Data-Free Layer-Adaptive Merging via Fisher Information for Long-to-Short Reasoning LLMs](https://arxiv.org/pdf/2603.21705) | 2026 | Arxiv | Qwen2.5-Math-7B,DeepSeek-R1-Distill-Qwen-7B
  | [RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://arxiv.org/pdf/2602.22538) | 2026 | ICLR |  Qwen2.5-1.5B/14B/32B, and Llama-3.1-8B
  | [Reasoning Pattern Alignment Merging for Adaptive Reasoning](https://arxiv.org/pdf/2601.03506) | 2026 | Arxiv | (i) Qwen3-4B-Thinking (Long-CoT) and Qwen3-4B-Instruct (Short-CoT); (ii) DeepSeekR1-Distill-Qwen-1.5B (Long-CoT) and Qwen2.5- Math-1.5B (Short-CoT)
  | [Revisiting Model Interpolation for Efficient Reasoning](https://arxiv.org/abs/2510.10977) | 2025 | Arxiv | Qwen3-4B
@@ -799,6 +800,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584)| 2026 | Arxiv |
   | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](https://arxiv.org/abs/2603.14405)| 2026 | Arxiv |
   | [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://openreview.net/pdf?id=RU76KTF1Da)| 2026 | ICLR | VisCodex-8B, VisCodex-33B
   | [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](https://arxiv.org/pdf/2601.21187)| 2026 | Arxiv | Qwen2.5-VL-7B-Instruct, DeepSeekR1-Distill-Qwen-7B, Qwen2.5-VL-32B-Instruct, QwQ-32B
@@ -828,6 +830,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](https://arxiv.org/pdf/2603.20470)| 2026 | Arxiv |Stable Diffusion v1.5, FLUX.1 Dev
 | [GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2601.18585)| 2026 | Arxiv |
 | [Rethinking Inter-LoRA Orthogonality in Adapter Merging: Insights from Orthogonal Monte Carlo Dropout](https://arxiv.org/pdf/2510.03262)| 2025 | Arxiv |
 | [BlockLoRA: Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation](https://arxiv.org/pdf/2503.08575v1)| 2025 | Arxiv |
