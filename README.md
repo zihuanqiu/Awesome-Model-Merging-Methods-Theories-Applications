@@ -398,6 +398,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [TECS-L (Golden MoE): Dense-to-MoE Expert Splitting Framework](https://github.com/need-singularity/TECS-L)| 2026 | GitHub | Mistral-7B |
 | [Fine-Grained Model Merging via Modular Expert Recombination](https://arxiv.org/pdf/2602.06552)| 2026 | Arxiv |
 | [MIN-Merging: Merge the Important Neurons for Model Merging](https://arxiv.org/pdf/2510.17890) | 2025 | Arxiv |
 | [SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging](https://arxiv.org/pdf/2506.18135) | 2025 | Arxiv |
