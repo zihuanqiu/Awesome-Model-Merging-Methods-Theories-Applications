@@ -329,6 +329,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Diet Your LLM: Dimension-wise Global Pruning of LLMs via Merging Task-specific Importance Score](https://arxiv.org/pdf/2603.23985)| 2026 | Arxiv | Gemma-2 9B, Qwen2.5-7B, Phi-4-mini
 | [DC-Merge: Improving Model Merging with Directional Consistency](https://arxiv.org/pdf/2603.06242)| 2026 | CVPR | LLaVA
 | [CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging](https://arxiv.org/pdf/2603.00573)| 2026 | Arxiv |Qwen3-8B and Llama3.1-8B
 | [Model Merging in the Essential Subspace](https://arxiv.org/pdf/2602.20208)| 2026 | Arxiv |
@@ -666,6 +667,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/pdf/2603.25041)| 2026 | Arxiv | 
   | [Functionality-Oriented LLM Merging on the Fisher–Rao Manifold](https://arxiv.org/pdf/2603.04972)| 2026 | Arxiv | Qwen2.5-14B, Qwen2.5-14B-Instruct-1M, Qwen2.5-Coder-14B-Instruct, DeepSeek-R1-Distill-Qwen-14B, OpenReasoning-Nemotron-14B
   | [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/pdf/2602.12323)| 2026 | Arxiv |   Llama3.1 8B-Instruct
   | [LS-Merge: Merging Language Models in Latent Space](https://openreview.net/pdf?id=VSDV0SWwOC)| 2026 | ICLR | Gemma-3-1B-it, Gemma-3-4B-it, Llama-3-1B-instruct, Llama-2-7b
