@@ -146,6 +146,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [crdt-merge](https://github.com/mgillr/crdt-merge)| 2026 | Github |  25 merge strategies including SLERP, TIES, DARE, Fisher merge, and task arithmetic
 | [An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/pdf/2512.02689)| 2025 | Arxiv | LLAMA-2-7B, LLAMA-3-8B, LLAMA-3.1-8B, QWEN2-7B
 | [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/pdf/2511.21437)| 2025 | Arxiv | Llama-3.2-3B-Instruct, Llama-3.1-8B-Instruct, Qwen3-4B, Qwen3-8B
 | [FusionBench: A Comprehensive Benchmark of Deep Model Fusion](https://arxiv.org/pdf/2406.03280)| 2025 | JMLR | Mistral-7B-v0.1, MetaMath-Mistral-7B, dolphin-2.1-mistral-7b, speechless-code-mistral-7b-v1.0
@@ -291,6 +292,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
 | [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv | 
 | [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv | 
 | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
@@ -667,6 +669,9 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights](https://arxiv.org/pdf/2603.28263)| 2026 | Arxiv | Llama 3.1 8B, Qwen3 8B, Qwen3 14B
+  | [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](https://arxiv.org/pdf/2603.26299)| 2026 | Arxiv | LLaMA-3-8B
+  | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
   | [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/pdf/2603.25041)| 2026 | Arxiv | 
   | [Functionality-Oriented LLM Merging on the Fisher–Rao Manifold](https://arxiv.org/pdf/2603.04972)| 2026 | Arxiv | Qwen2.5-14B, Qwen2.5-14B-Instruct-1M, Qwen2.5-Coder-14B-Instruct, DeepSeek-R1-Distill-Qwen-14B, OpenReasoning-Nemotron-14B
   | [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/pdf/2602.12323)| 2026 | Arxiv |   Llama3.1 8B-Instruct
