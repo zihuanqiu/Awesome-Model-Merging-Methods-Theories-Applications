@@ -648,6 +648,7 @@ Thanks!
 #### Mixing Datasets via Model Merging
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [OPTIMER: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training](https://arxiv.org/pdf/2603.28858)| 2026 |  Arxiv |Gemma 3 27B
  | [Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization](https://arxiv.org/pdf/2602.04937)| 2026 |  Arxiv | Qwen2-VL-2B and Intern3.5-VL-2B
  | [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/pdf/2602.00747)| 2026 |  Arxiv | Qwen3-1.7B
  | [Multi-task Code LLMs: Data Mix or Model Merge?](https://arxiv.org/pdf/2601.21115)| 2026 | Arxiv  | Qwen Coder 2.5 7B, DeepSeek 7B
