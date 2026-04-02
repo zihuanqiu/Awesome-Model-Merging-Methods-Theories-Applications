@@ -809,6 +809,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging]()https://openreview.net/forum?id=KOO1cDm2bt| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
   | [SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584)| 2026 | Arxiv |
   | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](https://arxiv.org/abs/2603.14405)| 2026 | Arxiv |
   | [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://openreview.net/pdf?id=RU76KTF1Da)| 2026 | ICLR | VisCodex-8B, VisCodex-33B
@@ -1143,6 +1144,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/pdf/2604.00627)| 2026  | Arxiv | Tulu-2-7b, Llama-3.1-Tulu-3-8B-DPO, OpenChat-3.5-0106
 | [Backdoor Vectors: a Task Arithmetic View on Backdoor Attacks and Defenses](https://arxiv.org/pdf/2510.08016)| 2025  | Arxiv |
 | [Merge Now, Regret Later: The Hidden Cost of Model Merging is Adversarial Transferability](https://arxiv.org/pdf/2509.23689)| 2025  | Arxiv |
 | [Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy](https://aclanthology.org/2025.findings-acl.713.pdf)| 2025  | ACL | Llama-3.2-3b-it, Gemma-2-2b-it, Qwen-2.5-3b-it, and Phi-3.5-mini-it |
