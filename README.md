@@ -900,6 +900,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs](https://arxiv.org/pdf/2604.02045)| 2026  |Arxiv  | Qwen3-1.7B and Qwen3-0.6B
+  | [Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging](https://arxiv.org/pdf/2604.01538)| 2026  |Arxiv  | Llama-3.1-8B-Base
   | [Mapping Post-Training Forgetting in Language Models at Scale](https://openreview.net/pdf?id=qCIg2WGudx)| 2026  |ICLR  |
   | [LCA: Local Classifier Alignment for Continual Learning](https://openreview.net/pdf?id=3uINmRldVW)| 2026  |ICLR  |
   | [MERGETUNE: Continued fine-tuning of vision-language models](https://arxiv.org/pdf/2601.10497)| 2026  |Arxiv  |
